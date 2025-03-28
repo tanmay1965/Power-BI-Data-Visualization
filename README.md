@@ -1,4 +1,4 @@
-# Power BI Dashboard - [Project Name]
+# Power BI Dashboard - Energy Consumption Dashboard
 
 This Power BI project visualizes Power Consumption.
 
